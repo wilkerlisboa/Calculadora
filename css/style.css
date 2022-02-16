@@ -36,17 +36,24 @@ a{
 }
 #v-link{
     width: 90%;
-    height: 100vh;
+    height: 300vh;
     background: black;
     display: flex;
     align-items: center;
+    text-align: center;
     flex-direction: column;
 }
 .image{
     width: 80%;
-    height: 80%;
+    height: 30%;
     background: url(https://img.freepik.com/vetores-gratis/bem-vindo-conceito-para-landing-page_52683-22946.jpg?w=740);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.text_about_page{
+    width: 90%;
+    margin-top: 10%;
+    line-height: 90%;
+    color: white;
 }
