@@ -42,5 +42,8 @@ a{
 .image{
     width: 60%;
     height: 50%;
-    background: blue;
+    background: url(https://img.freepik.com/vetores-gratis/bem-vindo-conceito-para-landing-page_52683-22946.jpg?w=740);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
